@@ -1,2 +1,3 @@
-airflow-pipelines/data/
-Airflow/
+__pycache__/
+*.pyc
+Airflow/First Project/data/
